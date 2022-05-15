@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BeratDen
+- 👀 I’m interested in creating a video game
+- 🌱 I’m currently learning asp.net core
+- 📫 How to reach me berat.denizsids@gmail.com
+- 
